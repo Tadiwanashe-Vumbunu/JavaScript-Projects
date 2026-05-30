@@ -30,7 +30,7 @@ The goal is to guess a **secret number between 1 and 100**.
 
 ### When the Guess is Correct
 1. The main text changes from **"Guess My Number"** to **"You Win"**  
-2. The **Check** button disappears to prevent further input  
+2. The **Check** button disappears to prevent further clicks by the user
 
 ### When the Player Loses
 3. The high score resets to **0**  
