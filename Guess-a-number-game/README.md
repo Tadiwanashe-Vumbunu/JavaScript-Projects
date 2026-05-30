@@ -38,7 +38,7 @@ The goal is to guess a **secret number between 1 and 100**.
 5. The main text changes to **"Game Over!"**  
 
 ### Other Changes
-6. The range is now **1 to 100** (previously 1 to 20) to adjust difficulty  
+6. The range is now **1 to 100** (previously 1 to 20) to adjust difficulty ratio
 7. The starting score is now **10** instead of 20  
 8. A warning message appears for out-of-range inputs  
 9. Clicking **Again** resets all variables and shows the **Check** button again  
